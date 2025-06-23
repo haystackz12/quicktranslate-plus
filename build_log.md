@@ -17,7 +17,7 @@ This log tracks the design, development, testing, and deployment milestones for 
 
 ### ✅ Day 1 – MVP Development
 
-**🗓 Date:** [Insert Date You Started]  
+**🗓 Date:** [6/22/2025]  
 **Goal:** Complete MVP in 1 day as part of 90-app challenge  
 **Actions Taken:**
 - Created basic UI in Streamlit (`file_uploader`, `selectbox`, `download_button`)
@@ -32,7 +32,7 @@ This log tracks the design, development, testing, and deployment milestones for 
 
 ### 🔄 Day 2 – Feature Expansion
 
-**🗓 Date:** [Insert Date of Enhancements]  
+**🗓 Date:** [6/22/2025]  
 **Enhancements Added:**
 - ✅ Token counter + cost estimator using `tiktoken`
 - ✅ Source language auto-detection using `langdetect`
@@ -49,7 +49,7 @@ This log tracks the design, development, testing, and deployment milestones for 
 
 ### ☁️ Deployment & Integration
 
-**🗓 Date:** [Insert Date of Deployment]  
+**🗓 Date:** [06/22/2025]  
 **Deployed to:** Streamlit Community Cloud  
 **Streamlit Link:** [quicktranslate-plus.streamlit.app](https://quicktranslate-plus-9rggbnyyakqxmdgbcrwwvw.streamlit.app/)
 
