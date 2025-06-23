@@ -1,9 +1,15 @@
 # 🌍 QuickTranslate+
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quicktranslate-plus-9rggbnyyakqxmdgbcrwwvw.streamlit.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Built%20with-Python-blue?logo=python)
+![Powered by OpenAI](https://img.shields.io/badge/OpenAI-API%20Powered-blueviolet?logo=openai)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+
+---
+
 QuickTranslate+ is a free, lightweight language translation tool built with Streamlit and OpenAI.  
 Upload a `.txt`, `.md`, `.docx`, or `.pdf` file — choose a language — and get a translated version instantly.
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quicktranslate-plus-9rggbnyyakqxmdgbcrwwvw.streamlit.app/)
 
 ---
 
@@ -47,10 +53,14 @@ Upload a `.txt`, `.md`, `.docx`, or `.pdf` file — choose a language — and ge
 ## 📂 Project Status
 
 ✅ MVP complete and deployed  
-🧩 Additional features coming soon (PDF output, glossary mode, UI theming)
+🧩 Additional features coming soon:
+- Export to PDF
+- UI themes
+- Glossary term overrides
 
 ---
 
 ## 🧑‍💻 Author
 
-Built by [Michael Hastings](https://github.com/haystackz12) as part of the "90 Apps in 90 Days" challenge.
+Built by [Michael Hastings](https://github.com/haystackz12)  
+Part of the **90 Apps in 90 Days** portfolio project.
